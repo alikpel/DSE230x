@@ -1,0 +1,82 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/hw/Section1-Spark-Basics/0.MemoryLatency
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/?token=6040aeed756c3beda2ce2437c75fdb8e8c7ee7634b895431
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6040aeed756c3beda2ce2437c75fdb8e8c7ee7634b895431
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/sessions?_=1590501697319 (172.17.0.1) 2.98ms referer=http://localhost:8889/tree?
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/terminals?_=1590501697320 (172.17.0.1) 2.53ms referer=http://localhost:8889/tree?
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/sessions?_=1590501697321 (172.17.0.1) 2.73ms referer=http://localhost:8889/tree?
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/terminals?_=1590501697322 (172.17.0.1) 2.23ms referer=http://localhost:8889/tree?
+[NotebookApp | INFO] 302 GET /tree? (172.17.0.1) 1.41ms
+[NotebookApp | INFO] 302 POST /login?next=%2Ftree%3F (172.17.0.1) 1.08ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] 302 GET /notebooks/Figures/Row-major-layout.png (172.17.0.1) 3.28ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Saving file at /1_Row_vs_Col_Major.ipynb
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:168797cb594e465a8eeca69fe63679a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:168797cb594e465a8eeca69fe63679a7
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:168797cb594e465a8eeca69fe63679a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:168797cb594e465a8eeca69fe63679a7
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:168797cb594e465a8eeca69fe63679a7
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/Figures/Row-major-layout.png (172.17.0.1) 7.19ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:6e23e89136b14be68edf49be51dfd18c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:6e23e89136b14be68edf49be51dfd18c
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:6e23e89136b14be68edf49be51dfd18c
+[NotebookApp | INFO] Kernel restarted: 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:6e23e89136b14be68edf49be51dfd18c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /1_Row_vs_Col_Major.ipynb
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:6e23e89136b14be68edf49be51dfd18c
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] 302 GET /notebooks/Figures/Row-major-layout.png (172.17.0.1) 5.71ms
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:0a20f7a5141948538282ae79929f7ab3
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/Figures/Row-major-layout.png (172.17.0.1) 12.24ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:55fd542fba384de68b29375d8a716204
+[NotebookApp | WARNING] Notebook 1_Row_vs_Col_Major.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/Figures/Row-major-layout.png (172.17.0.1) 5.06ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:0dc102a074314549a0216e57ed9455f0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:0dc102a074314549a0216e57ed9455f0
+[NotebookApp | INFO] Starting buffering for 26500f5d-6e06-4fb8-81df-278bdaf46339:0dc102a074314549a0216e57ed9455f0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26500f5d-6e06-4fb8-81df-278bdaf46339
+[NotebookApp | INFO] Restoring connection for 26500f5d-6e06-4fb8-81df-278bdaf46339:0dc102a074314549a0216e57ed9455f0
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.86ms
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.72ms
+[NotebookApp | INFO] Kernel shutdown: 26500f5d-6e06-4fb8-81df-278bdaf46339
